@@ -19,7 +19,7 @@ tag = "tags"
 
 [permalinks]
 blog = "/:slugorfilename/"
-tags = "/blog/:slug"
+tags = "/posts/:slug"
 
 [markup.goldmark.renderer]
 unsafe = true
@@ -49,8 +49,8 @@ name = "Home"
 pageRef = "/"
 weight = 10
 [[menu.main]]
-name = "Blog"
-pageRef = "/blog"
+name = "Posts"
+pageRef = "/posts"
 weight = 20
 
 [services.rss]
