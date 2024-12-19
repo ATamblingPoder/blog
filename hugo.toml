@@ -2,7 +2,7 @@
 baseURL = "https://atamblingpoder.github.io/blog/"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
-title = "MoaE"
+title = "ansh's blog"
 copyright = "© 2024 Ansh Goel"
 
 # Generate a nice robots.txt for SEO
@@ -33,8 +33,8 @@ noClasses = true
 style = "catppuccin-mocha"
 
 [params]
-title = "MoaE"
-description = "A Blog..?"
+title = "ansh's blog"
+description = "a blog about everything... and nothing"
 #favicon = "images/favicon.png"
 dateFormat = "2006-01-02"
 hideMadeWithLine = false

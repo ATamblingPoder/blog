@@ -1,6 +1,6 @@
 +++
 date = '2024-12-19T18:53:19+05:30'
-title = 'Musings of an Engineer'
+title = "ansh's blog"
 description = "こんにちは！"
 +++
 This is the front page of my _blog_!
