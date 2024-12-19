@@ -1,5 +1,5 @@
 # Basic config
-baseURL = "https://example.com"
+baseURL = "https://atamblingpoder.github.io/blog/"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
 title = "MoaE"
